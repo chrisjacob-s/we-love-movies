@@ -1,6 +1,6 @@
 # We Love Movies 
 
-## Website Deployment: https://we-love-movies-christophersoriano-1ly7vmle2-chrisjacob-s.vercel.app/
+**Website Deployment**: https://we-love-movies-christophersoriano-1ly7vmle2-chrisjacob-s.vercel.app/
 
 We Love Movies is a website where a user is able to see different movies and different theaters that premiere those movies. They are able to look at individual movies and see a complete description of them. They are also able to see the reviews and able to delete those reviews.
 
