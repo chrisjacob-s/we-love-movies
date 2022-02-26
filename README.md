@@ -29,7 +29,7 @@ This project is designed to test my ability to both build complex servers and ac
 
 ### All Theaters Page
 
-![Theaters Page](https://i.gyazo.com/6cb6fa890ba6f95d8179b87ea6803949.png)
+![Theaters Page](https://i.gyazo.com/6848e27df1620815d8a72aaaf30d2cab.jpg)
 
 ### Movie with Reviews Page
 
