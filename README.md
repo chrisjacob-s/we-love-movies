@@ -21,7 +21,7 @@ This project is designed to test my ability to both build complex servers and ac
 
 ### Home Page
 
-![Front Page](https://i.gyazo.com/1659bc3bc79ce70b41ec84df0a82d4b1.jpg)
+![Front Page](https://i.gyazo.com/0329e43038e1a729582aafe8dee26b2f.jpg)
 
 ### All Movies Page
 
